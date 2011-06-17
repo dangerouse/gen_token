@@ -1,0 +1,15 @@
+PATH
+  remote: .
+  specs:
+    gen_token (0.0.2)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (>= 1.0.0)
+  gen_token!
